@@ -1,0 +1,6 @@
+@BVK_Advocates_Law_Firm_HostAddress = http://localhost:5071
+
+GET {{BVK_Advocates_Law_Firm_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###

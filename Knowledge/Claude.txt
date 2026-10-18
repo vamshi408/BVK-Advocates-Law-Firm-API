@@ -1,0 +1,18 @@
+﻿Claude Opus 5.5 — The most capable model, designed for the hardest, most complex tasks: deep reasoning, 
+nuanced writing, difficult coding problems, multi-step analysis. 
+It's slower and more expensive to run, so it makes sense when quality matters more than speed.
+
+
+Claude Sonnet 5 — The balanced option (what's answering you right now). 
+Strong performance across most tasks — coding, writing, 
+analysis — at a fraction of Opus's cost and with faster responses. 
+This is usually the default choice for everyday use.
+
+
+Claude Haiku 4.5 — The fastest and lightest model. 
+Built for tasks that need quick responses at scale — simple queries, classification, 
+high-volume applications where latency and cost matter more than squeezing out the absolute best reasoning.
+
+Claude Fable 5.1 — Part of a newer tier above Opus called Mythos. 
+Fable is meant for broader use with extra safety guardrails around sensitive 
+domains like biology, cybersecurity, and AI research itself.
